@@ -1,0 +1,4 @@
+<config>
+	<data-class>spring_exmp1.implementations.ArticleData</data-class>
+	<metier-class>spring_exmp1.implementations.ArticleMetier</metier-class>
+</config>
